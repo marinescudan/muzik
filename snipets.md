@@ -8,3 +8,10 @@ npx prisma studio
 
 curl localhost:3000/api/signup email=s@f.com password=asda
 ```
+
+add seed usernames
+
+migrate dev
+    give a name
+    reset db
+    seed
